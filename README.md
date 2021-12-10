@@ -12,10 +12,10 @@ Otto is completely open source, Arduino compatible, 3D printable, and with a soc
 - Customized code providing Modular movements
 
 <p align="left">
-![21-moon-walk_fhNzxZozEH](https://user-images.githubusercontent.com/22457544/145515537-a5127a39-54b0-43e7-8539-7d250ba32968.gif)
+ <img src="https://user-images.githubusercontent.com/22457544/145515537-a5127a39-54b0-43e7-8539-7d250ba32968.gif">
 </p>
 <p align="right">
-![otto](https://user-images.githubusercontent.com/22457544/145515617-352d2f89-6f20-4bce-891a-11065101563a.gif)
+ <img src="https://user-images.githubusercontent.com/22457544/145515617-352d2f89-6f20-4bce-891a-11065101563a.gif">
 </p>
 
 ## How I made this Robot in 5 mins? 
