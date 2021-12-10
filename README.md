@@ -11,10 +11,8 @@ Otto is completely open source, Arduino compatible, 3D printable, and with a soc
 - Can be Controlled through App via Bluetooth
 - Customized code providing Modular movements
 
-<p align="left">
+<p align="center">
  <img src="https://user-images.githubusercontent.com/22457544/145515537-a5127a39-54b0-43e7-8539-7d250ba32968.gif">
-</p>
-<p align="right">
  <img src="https://user-images.githubusercontent.com/22457544/145515617-352d2f89-6f20-4bce-891a-11065101563a.gif">
 </p>
 
