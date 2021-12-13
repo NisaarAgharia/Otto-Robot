@@ -3,14 +3,6 @@
 
 Otto is completely open source, Arduino compatible, 3D printable, and with a social impact mission to create an inclusive environment for kids
 
-## Features
-
-- An interactive robot that anyone can make!
-- Otto walks, dances, makes sounds and avoids obstacles
-- Completely open source, Arduino compatible, 3D printable
-- Can be Controlled through App via Bluetooth
-- Customized code providing Modular movements
-
 <p align="center">
  <img src="https://user-images.githubusercontent.com/22457544/145758828-7d5d1592-b92e-405e-bd2f-a82266c99bf6.gif">
  <img src="https://user-images.githubusercontent.com/22457544/145515964-7a8c8478-45cc-4757-aabb-2ab5efedf0da.gif">
@@ -19,7 +11,13 @@ Otto is completely open source, Arduino compatible, 3D printable, and with a soc
  <img src="https://user-images.githubusercontent.com/22457544/145515617-352d2f89-6f20-4bce-891a-11065101563a.gif">
 </p>
 
-![6b8ec948473353 589930be9b388]()
+## Features
+
+- An interactive robot that anyone can make!
+- Otto walks, dances, makes sounds and avoids obstacles
+- Completely open source, Arduino compatible, 3D printable
+- Can be Controlled through App via Bluetooth
+- Customized code providing Modular movements
 
 
 ## How I made this Robot in 5 mins? 
