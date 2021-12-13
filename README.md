@@ -8,13 +8,14 @@ Otto is completely open source, Arduino compatible, 3D printable, and with a soc
  <img src="https://user-images.githubusercontent.com/22457544/145515964-7a8c8478-45cc-4757-aabb-2ab5efedf0da.gif">
  <img src="https://user-images.githubusercontent.com/22457544/145758682-b810e2f1-1c1c-49cd-a03e-8a1268f2e961.gif">
 </p>
-## App Demo
+
 <p align="center">
- <img align="left" src="https://user-images.githubusercontent.com/22457544/133878883-c2f314ba-6411-4052-88d0-a5c19a1a32df.gif">
+ <img src="https://user-images.githubusercontent.com/22457544/133878883-c2f314ba-6411-4052-88d0-a5c19a1a32df.gif">
  <img src="https://user-images.githubusercontent.com/22457544/145515537-a5127a39-54b0-43e7-8539-7d250ba32968.gif">
  </p>
+ 
  <p align="center">
- <img align="left" src="https://user-images.githubusercontent.com/22457544/133878886-4fbb642b-938a-4396-9f4e-c00a5e8fa7b9.gif">
+ <img src="https://user-images.githubusercontent.com/22457544/133878886-4fbb642b-938a-4396-9f4e-c00a5e8fa7b9.gif">
  <img src="https://user-images.githubusercontent.com/22457544/145515617-352d2f89-6f20-4bce-891a-11065101563a.gif">
  </p>
 
